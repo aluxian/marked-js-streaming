@@ -1,0 +1,11 @@
+{
+  "name": "marked-streaming-lexer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "marked": "^11.1.0"
+  }
+}
